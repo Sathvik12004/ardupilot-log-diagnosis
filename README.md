@@ -42,7 +42,7 @@ Tool correctly identified **Motor 4 failure** as the primary cause:
   ROOT CAUSE:
    Motor 4 failure during VTOL to fixed wing transition
    Battery stress from Motor 3 over-compensation
-   Motor saturation — aircraft fighting to maintain attitude
+   Motor saturation — aircraft fighting to maintain altitude
 ```
 
 ## Sample Output Plots
@@ -90,4 +90,4 @@ Project: AI-Assisted Log Diagnosis & Root-Cause Detection
 
 Sathvik  
 B.Tech ECE — Vignana Bharathi Institute of Technology (JNTUH)  
-IEEE Publication: Vocal Lens — Accepted & Presented at IEEE ICECIT 2026
+IEEE Publication: Vocal Lens — Accepted & Presented at IEEE ICoECIT 2026
