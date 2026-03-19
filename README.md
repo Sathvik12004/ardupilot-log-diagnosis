@@ -35,9 +35,9 @@ No hardcoded thresholds — everything learned from data.
 | Vibe Test (No Notch) | 1.6 min | Baseline normal | Ground test |
 | After Prop Balance | 1.9 min | Normal | Safe flight |
 | VTOL Hover | 5.1 min | Normal | Safe flight |
-| Transition | 7.7 min | 116.9% worse than normal | 💀 Crash |
+| Transition | 7.7 min | 116.9% worse than normal |  Crash |
 
-### What the Model Found — Without Being Told
+### What the Model Found 
 
 The Isolation Forest model, trained only on normal flights,
 automatically identified:
